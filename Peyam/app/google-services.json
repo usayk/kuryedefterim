@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "421130052465",
+    "firebase_url": "https://peyam-f0c38-default-rtdb.firebaseio.com",
+    "project_id": "peyam-f0c38",
+    "storage_bucket": "peyam-f0c38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421130052465:android:48b2448a663a8ac5294cd0",
+        "android_client_info": {
+          "package_name": "com.example.peyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421130052465-5ptgojquiql3ed1876d1euf11i1m86cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Kcay_ntylbrk__ES2rw_CwS24JuJgng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421130052465-5ptgojquiql3ed1876d1euf11i1m86cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
